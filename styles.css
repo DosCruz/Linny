@@ -34,7 +34,7 @@
 }
 
 html {
-    background-image: url(./images/LinnyBlur.jpg);
+    background-image: url(./images/Linny2Blur.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -44,7 +44,7 @@ html {
 }
 
 .body {
-    background-image: url(./images/Linny.jpg);
+    background-image: url(./images/Linny2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -76,16 +76,16 @@ h1 {
     padding: 10px 0;
     width: 70%;
     margin-left: 15%;
-    background-color: #F5F6F9;
-    border: 1px solid #F5F6F9;
+    background-color: #A93612;
+    border: 1px solid #A93612;
     border-radius: 10px;
-    color: black;
+    color: #f5f6f9;
 }
 
 .ofButton:hover {
-    color: #F5F6F9;
+    color: #A93612;
     background-color: black;
-    border: 1px solid #F5F6F9;
+    border: 1px solid #A93612;
 }
 
 #of {
